@@ -1,5 +1,7 @@
 # Hello, I'm Omar 👋
 
+![Animation](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
+
 ## 💻 Frontend Engineer | React and React Native Specialist | Cross-Platform Developer
 
 I build responsive, user-centric applications that people actually enjoy using. With 3+ years of hands-on experience, I've developed solutions that serve 40,000+ users and streamline critical business operations.
