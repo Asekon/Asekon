@@ -4,7 +4,7 @@
 
 ## 💻 Frontend Engineer | React and React Native Specialist | Cross-Platform Developer
 
-I build responsive, user-centric applications that people actually enjoy using. With 3+ years of hands-on experience, I've developed solutions that serve 40,000+ users and streamline critical business operations.
+I build responsive, user-centric applications that people actually enjoy using. With 4+ years of hands-on experience, I've developed solutions that serve 40,000+ users and streamline critical business operations.
 
 ### What I Do
 
