@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Omar 👋
 
-## 💻 Frontend Engineer | React Specialist | Cross-Platform Developer
+## 💻 Frontend Engineer | React and React Native Specialist | Cross-Platform Developer
 
 I build responsive, user-centric applications that people actually enjoy using. With 3+ years of hands-on experience, I've developed solutions that serve 40,000+ users and streamline critical business operations.
 
@@ -27,9 +27,9 @@ I build responsive, user-centric applications that people actually enjoy using. 
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-sherif-farag)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omaar.sherif@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)]([https://yourportfolio.com](https://portfolio-asekon.vercel.app/))
 
 ---
 
